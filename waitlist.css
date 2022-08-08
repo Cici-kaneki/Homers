@@ -1,0 +1,170 @@
+body{
+    background: url("8215061591watercolour-paper1_SM_seamless.jpg");
+}
+
+#nav-bar{
+    width:100%;
+    height:120px;
+     position: fixed;
+    background:url("8215061591watercolour-paper1_SM_seamless.jpg");
+    z-index: 1000;
+  
+    border-bottom-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:10px;
+    
+  }
+  #visit{
+    font-family: 'sacramento' ,cursive;
+    font-size: 50px;
+    
+  }
+  #rest-name{
+    padding-left: 20px;
+    font-size: 30px;
+    font-style: bold;
+    font-family: "sacramento";
+    font-size: 70px;
+    box-shadow: 0 0 100px goldenrod;
+    border-radius: 50%;
+  }
+  
+  #logo{
+    height: 70px;
+    width:70px;
+  }
+  #reserve{
+      background: url("rest.webp");
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 800px;
+      width: 100%;
+      margin-bottom: 100px;
+  }
+  
+  #style-menu{
+    width:400px;
+    height: 150px;
+    /* display: inline-block;
+    position: relative;
+    top: 800px;
+    right:800px; */
+    margin-top: 400px;
+    margin-left: 800px;
+    margin-bottom: 300px;
+    border-width: 2px;
+    background-color: black;
+    color: white;
+    border-color: goldenrod;
+    border-style:double;
+    opacity: 0.7;
+    box-shadow: 0 0 100px gold;
+    font-family: 'crimson';
+    font-size: 30px;
+  
+  }
+  
+ #letter{
+   
+    font-family: 'sacramento';
+    text-align: center;
+    margin-bottom: 30px;
+    width:700px;
+    margin-left: 600px;
+    border-radius: 1cm;
+    box-shadow: 0 0 50px goldenrod;
+ 
+  }
+  #zeal{
+    font-size: 20px;
+    margin-left: 450px;
+    font-family: 'crimson';
+    width:1000px;
+    text-align: center;
+    position: relative;
+    bottom:200px;
+ 
+  }
+  #achievments{
+    font-size: 20px;
+    margin-left: 450px;
+    font-family: 'crimson';
+    width:1000px;
+    text-align: center;
+  }
+  #reserv{
+    width:80%;
+      height: 200px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+     
+  }
+  #table{
+      margin-top: 100px;
+      margin-left: 400px;
+      border-radius: 12px;
+  }
+  #waitlist{
+    margin-top: 100px;
+      width:500px;
+      height: 70px;
+      margin-left: 200px;
+      border-radius: 12px;
+  }
+  #table:hover{
+    border-radius: 12px;
+    opacity: 1.2;
+  }
+  #waitlist:hover{
+    border-radius: 12px;
+    background-color: silver;
+  }
+ .homers-menu-but{
+     
+    height: 70px;
+    width:500px;
+    border-style: ridge;
+    border-color: goldenrod;
+    font-family: 'Crimson Text';
+    box-shadow: 0 0 100px gold;
+    margin-left: 600px;
+   }
+   
+ .dropdown-menu{
+  width:600px;
+  height:300px;
+  font-family: 'crimson';
+  background: url("8215061591watercolour-paper1_SM_seamless.jpg");
+  box-shadow: 0 0 50px goldenrod;
+ }
+ .dropdown-menu:hover{
+   background-color: goldenrod;
+   opacity: 1.2;
+ }
+   /* .homers-menu-but:hover{
+     background-color: gold;
+     opacity: 1.2;
+     box-shadow: 0 0 200px gold;
+   } */
+   #foot{
+  color: black;
+   background-color: goldenrod;
+   height: 50px;
+   width: 100%;
+ }
+ #contact{
+   padding-top: 10px;
+   margin-left: 50px;
+   font-family: "crimson";
+   color: black;
+   font-size: 20px;
+ }
+ #home{
+  box-shadow: 0 0 100px gold;
+  height: 50px;
+
+   font-size: 20px;
+ }
